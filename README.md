@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Positive Attitude.
 - 💬 Ask me about Software Developing tools.
 - 📫 2022 Goals : Contribute more to Open source.
-- 😄 Pronouns: He/Him.
+- 😄 Tell me a Programming Joke!!! :joy:
 - ⚡ Fun fact: I love to play guitar.
