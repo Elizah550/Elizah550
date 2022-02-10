@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source. :saxophone:
 - 🤔 I’m looking for help with Positive Attitude. :v:
 - 💬 Ask me about Software Developing tools.:rocket:
-- 📫 2022 Goals : Contribute more to Open source. :muscle:
+- 📫 2023 Goals : Contribute more to Open source. :muscle:
 - 😄 Tell me a Programming Joke!!! :joy:
 - ⚡ Fun fact: I love to play guitar.:guitar:
