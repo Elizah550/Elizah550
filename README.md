@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw3DqtKbpKFzVoUZQc-JxDOB&ust=1722509559897000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCcpKWO0YcDFQAAAAAdAAAAABAE" alt="Snake animation" />
 
 ###
