@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw3DqtKbpKFzVoUZQc-JxDOB&ust=1722509559897000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCcpKWO0YcDFQAAAAAdAAAAABAE" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Github profile" />
 
 ###
